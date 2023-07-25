@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+select {
+    width: 400px;
+    height: 30px;
+}
+
